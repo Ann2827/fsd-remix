@@ -40,3 +40,4 @@ Make sure to deploy the output of `remix build`
 ## Заметки
 
 - генерация типов на основе бэкенд эндпоинтов `npm run generate-api-types`
+- https://feature-sliced.github.io/documentation/ru/docs/get-started/tutorial#фильтрация-по-тегам
