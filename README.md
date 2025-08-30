@@ -36,3 +36,7 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
+
+## Заметки
+
+- генерация типов на основе бэкенд эндпоинтов `npm run generate-api-types`
